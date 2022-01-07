@@ -10,6 +10,8 @@ Acquire the learning objectives by reviewing [this page](https://happycoding.io/
 
 ## Step 2 - Task
 
+![](processing_task6.png)
+
 Demonstrate your learning objectives by using loops to reproduce the graphic above, such that:
 
 * Quadrant 1 is a 10 x 10 grid that scales to with the size of window.
